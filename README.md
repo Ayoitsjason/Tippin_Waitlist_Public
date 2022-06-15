@@ -13,7 +13,7 @@ Password: password
 Front End
 Tech used: React and CSS
 
-Back end
+Back End
 Tech used: Node.js, Express, MongoDB
 
 # Getting Started with Create React App
