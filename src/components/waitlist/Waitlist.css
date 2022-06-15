@@ -1,0 +1,101 @@
+/* Splash Page */
+#main p {
+  line-height: 2em;
+}
+
+/* Waitlist Application */
+.main-application__row {
+  min-height: 100vh;
+  height: -webkit-fill-available;
+}
+
+/* Waitlist customer components */
+.waitlist__customers {
+  background-color: hsl(242.07, 100%, 94.31%);
+}
+
+.waitlist__customers .col {
+  align-self: center;
+}
+
+.waitlist__customers p {
+  font-size: 1.3rem;
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+.action-container {
+  height: 100%;
+  align-self: center;
+}
+
+/* Leave Review Component */
+.review__componentsSelected {
+  border-style: none;
+  width: 5rem;
+  height: 5rem;
+  background-color: hsl(231.21, 100%, 77.25%);
+}
+
+.review__components-svg5 {
+  background-image: url("../images/satisfied_1.svg");
+  background-size: cover;
+}
+.review__components-svg4 {
+  background-image: url("../images/satisfied_2.svg");
+  background-size: cover;
+}
+.review__components-svg3 {
+  background-image: url("../images/satisfied_3.svg");
+  background-size: cover;
+}
+.review__components-svg2 {
+  background-image: url("../images/satisfied_4.svg");
+  background-size: cover;
+}
+.review__components-svg1 {
+  background-image: url("../images/satisfied_5.svg");
+  background-size: cover;
+}
+
+/* Socials */
+.socials {
+  border: 1px solid hsl(231.21, 100%, 77.25%);
+  background-color: hsl(231.21, 100%, 77.25%, 0.2);
+  border-radius: 5px;
+}
+
+.social-links__text {
+  overflow: hidden;
+  line-height: 1.5rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Party Size Component */
+.party-size__component {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: none;
+  border-style: none;
+  width: 2rem;
+  height: 2rem;
+}
+
+.party-size__component-text {
+  color: hsl(225.35, 100%, 57.45%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+/* Forms */
+.form-group {
+  margin: 1rem 0 0.5rem 0;
+}
+
+.form-control {
+  margin: 0.5rem 0 0.5rem 0;
+}

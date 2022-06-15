@@ -1,0 +1,10 @@
+.side-navigation {
+  min-height: 100%;
+  background-color: hsl(242.07, 100%, 94.31%);
+}
+
+@media only screen and (max-width: 37.5rem) {
+  .side-nav__text {
+    display: none;
+  }
+}
