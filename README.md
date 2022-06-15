@@ -16,6 +16,8 @@ Tech used: React and CSS
 Back End
 Tech used: Node.js, Express, MongoDB
 
+Copyright (c) 2021 Jason Le
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
