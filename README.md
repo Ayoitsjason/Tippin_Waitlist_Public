@@ -6,7 +6,7 @@ Link to Project: https://tippinwaitlist.web.app/
 Login: test@example.com
 Password: password
 
-![waitlist](https://user-images.githubusercontent.com/11216742/173739918-2113497e-70f6-45f8-b922-8a770f746cbf.png)
+![screencapture-tippinwaitlist-web-app-2023-01-30-18_47_25](https://user-images.githubusercontent.com/11216742/215650033-87cfb1a8-ac6f-4fd3-8c49-6f85727a401a.png)
 
 # How It's Made:
 
