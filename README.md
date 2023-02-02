@@ -1,5 +1,5 @@
 # Tippin_Waitlist
-Full Stack Web application for small service based businesses. Provides waitlist and the ability to leave anonymous reviews.
+Streamline customer management with our Full Stack Web Application designed for small service-based businesses. With features including a convenient waitlist management system and the option to leave anonymous reviews, this solution simplifies operations and helps gather valuable customer feedback.
 
 Link to Project: https://tippinwaitlist.web.app/
 
